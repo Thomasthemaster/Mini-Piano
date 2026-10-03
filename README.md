@@ -41,7 +41,7 @@ Below is the schematic generated in Tinkercad:
 ## 🔗 Wokwi Simulation
 Try the interactive simulation of the project here:
 
-[Open in Wokwi](https://wokwi.com/projects/476106349808289793)
+[Open in Wokwi](https://wokwi.com/projects/476890919620909057)
 
 ---
 ## 🖼️ Project Photo
@@ -73,8 +73,7 @@ Watch the project in action + an explanation of the build:
 
 - Arduino Nano Board
 - Passive Buzzer
-- Ultrasonic Sensor
-- Servo
+- 8 Pushbuttons
 - Power MB V2 + 9V Battery
 - Jumper wires
 
@@ -82,7 +81,7 @@ Watch the project in action + an explanation of the build:
 
 ## 💡 What I Learned
 
-I learned to add other things to my projects. Since I added a cube with 3 sides showing Rock, Paper, and Scissors, I think this project has really disputed my ability to add other things to my projects rather than just the pure components. 
+I learned to add sound and incorporate real-life mini versions of instruments into my projects. 
 
 ---
 
